@@ -1,0 +1,16 @@
+[
+    {
+        "customerName": "Ahmed",
+        "customerEmail": "ahmed@example.com",
+        "customerID": "afhaque89",
+        "phoneNumber": "000-000-0000",
+        "dateAdded": "new Date()",
+        "waiting": "false"
+    },
+    {
+        "customerName": "John ",
+        "customerEmail": "John@example.com",
+        "customerID": "johnnyboy",
+        "phoneNumber": "000-000-0031"
+    }
+]
